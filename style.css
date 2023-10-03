@@ -1,0 +1,117 @@
+body{
+    background-color: #EEEEF0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* AQUI EMPIEZAN LOS ESTILOS DEL HEADER */
+
+
+.cabecera{
+    background-color: #002F69;
+    color: #EEEEF0;
+    height: 100px;
+}
+
+.logo{
+    max-height: 20px;
+}
+
+/* ESTILOS DEL MENÚ NAV */
+.menu{
+    list-style: none;
+    width: 70%;
+    max-width: 700px;
+    font-size: 15px;
+    margin: auto;
+    float: right;
+    background-color: #002F69;
+}
+
+.menu li{
+    display: inline-block;
+
+}
+
+.menu li a{
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+    display: block;
+}
+
+.menu li a:hover{
+    background:#0657ba2b
+}
+
+
+/* aquí empiezan los estilos del main index */
+
+main{
+    justify-content: center;
+    text-align: center;
+}
+
+.indexText{
+    text-align: center;
+    color:#002F69;
+}
+/* aquí terminan los estilos del main index */
+
+/* aquí empiezan los estilos del main quienes somos */
+
+.quienesMain{
+    text-align: center;
+    color:#002F69;
+}
+
+/* aquí terminan los estilos del main quienes somos */
+
+/* aquí empiezan los estilos del main contacto */
+
+.contactoMain{
+    text-align: center;
+    color:#002F69;
+}
+
+/* aquí terminan los estilos del main contacto */
+
+/* aquí empiezan los estilos del main encontrarnos */
+
+
+.encontrarnosMain{
+text-align: center;
+color:#002F69;
+}
+
+/* aquí terminan los estilos del main encontrarnos */
+
+/* aquí empiezan los estilos del main trabajos */
+
+
+.trabajosMain{
+    text-align: center;
+    color:#002F69;
+}
+
+/* aquí terminan los estilos del main encontrarnos */
+
+
+
+/* aquí empiezan los estilos del footer */
+.pie{
+    margin-top: 40px;
+    margin-bottom: 0;
+    color: #EEEEF0;
+    position: absolute;
+    width: 100%;
+    height:35px;
+    display:inline-block;
+    text-align: center;
+    font-size: 0.8em;
+    background-color:#002F69
+    
+    
+  }
+
+
+/* aquí terminan los estilos del footer */
